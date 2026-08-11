@@ -38,9 +38,7 @@ Lovely Professional University
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Ankit Yadav](YOUR-LINKEDIN-URL)
+- LinkedIn: [Ankit Yadav](www.linkedin.com/in/ankit-yadav-b2648b414)
 - Email: `ankiii.yadav@yahoo.com`
 
 ---
-
-> Learning → Building → Improving
